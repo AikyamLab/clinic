@@ -1,5 +1,28 @@
 # CLINIC : Evaluating Multilingual Trustworthiness in Language Models for Healthcare
 
+![Model](https://img.shields.io/badge/Model-GPT-4o-mini-9AC75F)
+![Model](https://img.shields.io/badge/Model-Gemini-1.5-Flash-9AC75F)
+![Model](https://img.shields.io/badge/Model-Gemini-2.5-Pro-9AC75F)
+![Model](https://img.shields.io/badge/Model-OpenBioLLM-8B-9AC75F)
+![Model](https://img.shields.io/badge/Model-UltraMedical-9AC75F)
+![Model](https://img.shields.io/badge/Model-MMedLLamal-9AC75F)
+![Model](https://img.shields.io/badge/Model-LLaMA-3.2-3B-9AC75F)
+![Model](https://img.shields.io/badge/Model-Qwen-2-1.5B-9AC75F)
+![Model](https://img.shields.io/badge/Model-Phi-4mini-9AC75F)
+![Model](https://img.shields.io/badge/Model-Qwen3-32B-9AC75F)
+![Model](https://img.shields.io/badge/Model-DeepSeek-R1-9AC75F)
+![Model](https://img.shields.io/badge/Model-DeepSeek-R1-LLaMA-9AC75F)
+![Model](https://img.shields.io/badge/Model-QwQ-32B-9AC75F)
+
+![Dataset](https://img.shields.io/badge/Dataset-CLINIC-4C84D3)
+
+![Task](https://img.shields.io/badge/Task-Truthfulness-C55C53)
+![Task](https://img.shields.io/badge/Task-Robustness-C55C53)
+![Task](https://img.shields.io/badge/Task-Fairness-C55C53)
+![Task](https://img.shields.io/badge/Task-Safety-C55C53)
+![Task](https://img.shields.io/badge/Task-Privacy-C55C53)
+
+
 First ever multilingual benchmark for trustworthiness in healthcare.
 
 ## Abstract
