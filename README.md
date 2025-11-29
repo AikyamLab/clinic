@@ -16,11 +16,11 @@
 
 ![Dataset](https://img.shields.io/badge/Dataset-CLINIC-4C84D3)
 
-![Task](https://img.shields.io/badge/Task-Truthfulness-D9766D)
-![Task](https://img.shields.io/badge/Task-Robustness-D9766D)
-![Task](https://img.shields.io/badge/Task-Fairness-D9766D)
-![Task](https://img.shields.io/badge/Task-Safety-D9766D)
-![Task](https://img.shields.io/badge/Task-Privacy-D9766D)
+![Task](https://img.shields.io/badge/Task-Truthfulness-E89A8D)
+![Task](https://img.shields.io/badge/Task-Robustness-E89A8D)
+![Task](https://img.shields.io/badge/Task-Fairness-E89A8D)
+![Task](https://img.shields.io/badge/Task-Safety-E89A8D)
+![Task](https://img.shields.io/badge/Task-Privacy-E89A8D)
 
 <!-- <img width="1024" height="541" alt="image" src="https://github.com/user-attachments/assets/955043e7-89fd-4eb0-87c9-195d5b075f67" /> -->
 
