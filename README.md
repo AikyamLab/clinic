@@ -22,14 +22,20 @@ Integrating language models (LMs) in healthcare systems holds great promise for 
 
 We used MedlinePlus (NLM, 2025) as our primary data source because it provides broad coverage of medical subdomains and high-quality English and professionally translated multilingual content. Unlike prior datasets (Wang et al., 2024; Qiu et al., 2024), it includes low-resource and geographically diverse languages with clinically vetted translations. To support out-of-distribution evaluation and ensure current medication information, we additionally incorporated FDA drug documents with available parallel multilingual versions.
 
+## Construction of CLINIC
+
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/7e20351d-a9ab-44b9-8d5d-842f7276d3ad" />
+Step 1 involves data collection and mapping English samples to their corresponding multilingual versions. Step 2 applied a two-step prompting strategy to generate
+additional samples. Step 3 focused on sample validation to determine final inclusion in CLINIC.
+
 ### Data Statistics
 
 1. Distribution of samples across different dimensions of CLINIC
-<img width="967" height="375" alt="image" src="https://github.com/user-attachments/assets/8a501d88-4714-4a84-8f61-7793ddb69c4e" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/8a501d88-4714-4a84-8f61-7793ddb69c4e" />
 
 
 1. Distribution of samples across subdomains, where some samples fall under multiple categories.
-<img width="967" height="375" alt="image" src="https://github.com/user-attachments/assets/d528b327-924f-4e3b-a456-b494aec5f389" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/d528b327-924f-4e3b-a456-b494aec5f389" />
 
 
 ## Installation
