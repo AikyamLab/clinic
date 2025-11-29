@@ -8,6 +8,29 @@ Integrating language models (LMs) in healthcare systems holds great promise for 
 ![](image.png)
 
 
+## Key contributions of our work
+
+1. Comprehensive Multidimensional Evaluation: We establish a structured trustworthiness evaluation framework covering truthfulness, fairness, safety, privacy, and robustness through 18 sub-tasks– adversarial attacks, consistency verification, disparagement, exaggerated safety, stereotype and preference fairness, hallucination, honesty, jailbreak and OoD robustness, privacy leakage, toxicity and sycophancy.
+2. Domain-Specific Healthcare Coverage: CLINIC offers 28,800 carefully curated samples from six key healthcare domains, including patient conditions, preventive healthcare, diagnostics and laboratory tests, pharmacology and medication, surgical and procedural treatment, and emergency medicine.
+3. Global Linguistic Coverage: CLINIC supports 15 languages from diverse regions, including Asia, Africa, Europe, and the America, ensuring broad cultural and linguistic representation.
+4. Extensive Model Benchmarking: We conduct a comprehensive evaluation of 13 language models, including small and large open-weight, medical, and reasoning models, providing a holistic analysis of language models across varied healthcare scenarios.
+5. Expert Validation: All evaluation tasks and their respective criteria have been validated and refined in consultation with healthcare domain experts, ensuring clinical accuracy and real-world relevance.
+
+## Dataset
+
+### Data Collection
+
+We used MedlinePlus (NLM, 2025) as our primary data source because it provides broad coverage of medical subdomains and high-quality English and professionally translated multilingual content. Unlike prior datasets (Wang et al., 2024; Qiu et al., 2024), it includes low-resource and geographically diverse languages with clinically vetted translations. To support out-of-distribution evaluation and ensure current medication information, we additionally incorporated FDA drug documents with available parallel multilingual versions.
+
+### Data Statistics
+
+<img width="967" height="452" alt="image" src="https://github.com/user-attachments/assets/8a501d88-4714-4a84-8f61-7793ddb69c4e" />
+Distribution of samples across different dimensions of CLINIC
+
+
+<img width="1005" height="465" alt="image" src="https://github.com/user-attachments/assets/d528b327-924f-4e3b-a456-b494aec5f389" />
+Distribution of samples across subdomains, where some samples fall under multiple categories.
+
 ## Installation
 
 ### Prerequisites
