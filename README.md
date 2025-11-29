@@ -22,8 +22,18 @@
 ![Task](https://img.shields.io/badge/Task-Safety-D9766D)
 ![Task](https://img.shields.io/badge/Task-Privacy-D9766D)
 
+<!-- <img width="1024" height="541" alt="image" src="https://github.com/user-attachments/assets/955043e7-89fd-4eb0-87c9-195d5b075f67" /> -->
 
-First ever multilingual benchmark for trustworthiness in healthcare.
+
+
+<p align="center">
+  <img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/955043e7-89fd-4eb0-87c9-195d5b075f67" />
+</p>
+
+<p align="center">
+  <b>First ever multilingual benchmark for trustworthiness in healthcare.</b>
+</p>
+
 
 ## Abstract
 
