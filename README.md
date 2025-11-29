@@ -17,6 +17,13 @@ Integrating language models (LMs) in healthcare systems holds great promise for 
 4. Extensive Model Benchmarking: We conduct a comprehensive evaluation of 13 language models, including small and large open-weight, medical, and reasoning models, providing a holistic analysis of language models across varied healthcare scenarios.
 5. Expert Validation: All evaluation tasks and their respective criteria have been validated and refined in consultation with healthcare domain experts, ensuring clinical accuracy and real-world relevance.
 
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/f728b5af-b6db-4730-8d57-35147f6b8bcc" />
+
+
+## CLINIC vs Other Benchmarks
+
+
+
 ## Dataset
 
 ### Data Collection
@@ -25,7 +32,9 @@ We used MedlinePlus (NLM, 2025) as our primary data source because it provides b
 
 ### Dataset Dimensions
 
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/aba4c61b-a129-4c81-9900-5feb7c09b8ae" />
+<!-- <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/aba4c61b-a129-4c81-9900-5feb7c09b8ae" /> -->
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/657c206e-6ebf-47b6-a5e7-593dddee671d" />
+
 
 
 ### Construction of CLINIC
