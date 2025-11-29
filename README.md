@@ -24,12 +24,13 @@ We used MedlinePlus (NLM, 2025) as our primary data source because it provides b
 
 ### Data Statistics
 
-<img width="967" height="452" alt="image" src="https://github.com/user-attachments/assets/8a501d88-4714-4a84-8f61-7793ddb69c4e" />
-Distribution of samples across different dimensions of CLINIC
+1. Distribution of samples across different dimensions of CLINIC
+<img width="967" height="375" alt="image" src="https://github.com/user-attachments/assets/8a501d88-4714-4a84-8f61-7793ddb69c4e" />
 
 
-<img width="1005" height="465" alt="image" src="https://github.com/user-attachments/assets/d528b327-924f-4e3b-a456-b494aec5f389" />
-Distribution of samples across subdomains, where some samples fall under multiple categories.
+1. Distribution of samples across subdomains, where some samples fall under multiple categories.
+<img width="967" height="375" alt="image" src="https://github.com/user-attachments/assets/d528b327-924f-4e3b-a456-b494aec5f389" />
+
 
 ## Installation
 
