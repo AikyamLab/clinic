@@ -8,7 +8,7 @@ Integrating language models (LMs) in healthcare systems holds great promise for 
 ![](image.png)
 
 
-## Key contributions of our work
+## 📌 Key contributions of our work
 
 1. Comprehensive Multidimensional Evaluation: We establish a structured trustworthiness evaluation framework covering truthfulness, fairness, safety, privacy, and robustness through 18 sub-tasks– adversarial attacks, consistency verification, disparagement, exaggerated safety, stereotype and preference fairness, hallucination, honesty, jailbreak and OoD robustness, privacy leakage, toxicity and sycophancy.
 2. Domain-Specific Healthcare Coverage: CLINIC offers 28,800 carefully curated samples from six key healthcare domains, including patient conditions, preventive healthcare, diagnostics and laboratory tests, pharmacology and medication, surgical and procedural treatment, and emergency medicine.
