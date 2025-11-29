@@ -1,9 +1,10 @@
 # CLINIC : Evaluating Multilingual Trustworthiness in Language Models for Healthcare
 
+First ever multilingual benchmark for trustworthiness in healthcare.
+
 ## Abstract
 
 Integrating language models (LMs) in healthcare systems holds great promise for improving medical workflows and decision-making. However, a critical barrier to their real-world adoption is the lack of reliable evaluation of their trustworthiness, especially in multilingual healthcare settings. Existing LMs are predominantly trained in high-resource languages, making them ill-equipped to handle the complexity and diversity of healthcare queries in mid- and low-resource languages, posing significant challenges for deploying them in global healthcare contexts where linguistic diversity is key. In this work, we present CLINIC, a Comprehensive Multilingual Benchmark to evaluate the trustworthiness of language models in healthcare. CLINIC systematically benchmarks LMs across five key dimensions of trustworthiness: truthfulness, fairness, safety, robustness, and privacy, operationalized through 18 diverse tasks, spanning 15 languages (covering all the major continents), and encompassing a wide array of critical healthcare topics like disease conditions, preventive actions, diagnostic tests, treatments, surgeries, and medications. Our extensive evaluation reveals that LMs struggle with factual correctness,demonstrate bias across demographic and linguistic groups, and are susceptible to privacy breaches and adversarial attacks. By highlighting these shortcomings, CLINIC lays the foundation for enhancing the global reach and safety of LMs in healthcare across diverse languages.
-
 
 ![](image.png)
 
@@ -22,7 +23,12 @@ Integrating language models (LMs) in healthcare systems holds great promise for 
 
 We used MedlinePlus (NLM, 2025) as our primary data source because it provides broad coverage of medical subdomains and high-quality English and professionally translated multilingual content. Unlike prior datasets (Wang et al., 2024; Qiu et al., 2024), it includes low-resource and geographically diverse languages with clinically vetted translations. To support out-of-distribution evaluation and ensure current medication information, we additionally incorporated FDA drug documents with available parallel multilingual versions.
 
-## Construction of CLINIC
+### Dataset Dimensions
+
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/aba4c61b-a129-4c81-9900-5feb7c09b8ae" />
+
+
+### Construction of CLINIC
 
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/7e20351d-a9ab-44b9-8d5d-842f7276d3ad" />
 Step 1 involves data collection and mapping English samples to their corresponding multilingual versions. Step 2 applied a two-step prompting strategy to generate
@@ -31,12 +37,14 @@ additional samples. Step 3 focused on sample validation to determine final inclu
 ### Data Statistics
 
 1. Distribution of samples across different dimensions of CLINIC
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/8a501d88-4714-4a84-8f61-7793ddb69c4e" />
-
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/8a501d88-4714-4a84-8f61-7793ddb69c4e" />
 
 1. Distribution of samples across subdomains, where some samples fall under multiple categories.
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/d528b327-924f-4e3b-a456-b494aec5f389" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/d528b327-924f-4e3b-a456-b494aec5f389" />
 
+
+
+## Performance
 
 ## Installation
 
@@ -49,8 +57,8 @@ additional samples. Step 3 focused on sample validation to determine final inclu
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd CLINIC-main
+git clone https://github.com/AikyamLab/clinic
+cd clinic
 ```
 
 2. Create a virtual environment (recommended):
@@ -128,15 +136,17 @@ See `requirements.txt` for the complete list of dependencies. Key dependencies i
 
 ## Citation
 
-If you use CLINIC in your research, please cite our paper:
+If you use CLINIC benchmark in your research, please cite our repo:
 
 ```bibtex
-@article{clinic2024,
-  title={CLINIC: Evaluating Multilingual Trustworthiness in Language Models for Healthcare},
-  author={...},
-  journal={...},
-  year={2024}
+@misc{githubrepo,
+  author       = {Aikyam Lab},
+  title        = {clinic},
+  howpublished = {\url{https://github.com/AikyamLab/clinic}},
+  year         = {2025},
+  note         = {Version 1.0}
 }
+
 ```
 
 ## License
