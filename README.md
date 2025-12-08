@@ -14,7 +14,8 @@
 ![Model](https://img.shields.io/badge/Model-DeepSeek--R1--LLaMA--70B-2EAF37)
 ![Model](https://img.shields.io/badge/Model-QwQ--32B-2EAF37)
 
-![Dataset](https://huggingface.co/datasets/Agcs12/CLINIC)
+[📂 CLINIC Dataset on Hugging Face](https://huggingface.co/datasets/Agcs12/CLINIC)
+
 
 
 
