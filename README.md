@@ -1,20 +1,22 @@
 # CLINIC : Evaluating Multilingual Trustworthiness in Language Models for Healthcare
 
-![Model](https://img.shields.io/badge/Model-GPT--4o--mini-2EAF37)
-![Model](https://img.shields.io/badge/Model-Gemini--1.5--Flash-2EAF37)
-![Model](https://img.shields.io/badge/Model-Gemini--2.5--Pro-2EAF37)
-![Model](https://img.shields.io/badge/Model-OpenBioLLM--8B-2EAF37)
-![Model](https://img.shields.io/badge/Model-UltraMedical-2EAF37)
-![Model](https://img.shields.io/badge/Model-MMedLLama--8B-2EAF37)
-![Model](https://img.shields.io/badge/Model-LLaMA--3.2--3B-2EAF37)
-![Model](https://img.shields.io/badge/Model-Qwen2--1.5B-2EAF37)
-![Model](https://img.shields.io/badge/Model-Phi--4mini-2EAF37)
-![Model](https://img.shields.io/badge/Model-Qwen3--32B-2EAF37)
-![Model](https://img.shields.io/badge/Model-DeepSeek--R1--32B-2EAF37)
-![Model](https://img.shields.io/badge/Model-DeepSeek--R1--LLaMA--70B-2EAF37)
-![Model](https://img.shields.io/badge/Model-QwQ--32B-2EAF37)
+[![Model](https://img.shields.io/badge/Model-GPT--4o--mini-2EAF37)](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
+[![Model](https://img.shields.io/badge/Model-Gemini--1.5--Flash-2EAF37)](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
+[![Model](https://img.shields.io/badge/Model-Gemini--2.5--Pro-2EAF37)](https://docs.cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/2-5-pro)
+[![Model](https://img.shields.io/badge/Model-OpenBioLLM--8B-2EAF37)](https://huggingface.co/aaditya/Llama3-OpenBioLLM-8B)
+[![Model](https://img.shields.io/badge/Model-UltraMedical-2EAF37)](https://huggingface.co/TsinghuaC3I/Llama-3-8B-UltraMedical)
+[![Model](https://img.shields.io/badge/Model-MMedLLama--8B-2EAF37)](https://huggingface.co/Henrychur/MMed-Llama-3-8B)
+[![Model](https://img.shields.io/badge/Model-LLaMA--3.2--3B-2EAF37)](https://huggingface.co/meta-llama/Llama-3.2-3B)
+[![Model](https://img.shields.io/badge/Model-Qwen2--1.5B-2EAF37)](https://huggingface.co/Qwen/Qwen2-1.5B-Instruct)
+[![Model](https://img.shields.io/badge/Model-Phi--4mini-2EAF37)](https://huggingface.co/microsoft/Phi-4-mini-instruct)
+[![Model](https://img.shields.io/badge/Model-Qwen3--32B-2EAF37)](https://huggingface.co/Qwen/Qwen3-32B)
+[![Model](https://img.shields.io/badge/Model-DeepSeek--R1--32B-2EAF37)](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B)
+[![Model](https://img.shields.io/badge/Model-DeepSeek--R1--LLaMA--70B-2EAF37)](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B)
+[![Model](https://img.shields.io/badge/Model-QwQ--32B-2EAF37)](https://huggingface.co/Qwen/QwQ-32B)
 
-[📂 CLINIC Dataset on Hugging Face](https://huggingface.co/datasets/Agcs12/CLINIC)
+[![HF Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Datasets-Agcs12%2FCLINIC-E9C300?labelColor=444444
+)](https://huggingface.co/datasets/Agcs12/CLINIC)
+
 
 
 
