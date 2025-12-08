@@ -1,23 +1,62 @@
 # CLINIC : Evaluating Multilingual Trustworthiness in Language Models for Healthcare
 
-[![Model](https://img.shields.io/badge/Model-GPT--4o--mini-2EAF37)](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
-[![Model](https://img.shields.io/badge/Model-Gemini--1.5--Flash-2EAF37)](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
-[![Model](https://img.shields.io/badge/Model-Gemini--2.5--Pro-2EAF37)](https://docs.cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/2-5-pro)
-[![Model](https://img.shields.io/badge/Model-OpenBioLLM--8B-2EAF37)](https://huggingface.co/aaditya/Llama3-OpenBioLLM-8B)
-[![Model](https://img.shields.io/badge/Model-UltraMedical-2EAF37)](https://huggingface.co/TsinghuaC3I/Llama-3-8B-UltraMedical)
-[![Model](https://img.shields.io/badge/Model-MMedLLama--8B-2EAF37)](https://huggingface.co/Henrychur/MMed-Llama-3-8B)
-[![Model](https://img.shields.io/badge/Model-LLaMA--3.2--3B-2EAF37)](https://huggingface.co/meta-llama/Llama-3.2-3B)
-[![Model](https://img.shields.io/badge/Model-Qwen2--1.5B-2EAF37)](https://huggingface.co/Qwen/Qwen2-1.5B-Instruct)
-[![Model](https://img.shields.io/badge/Model-Phi--4mini-2EAF37)](https://huggingface.co/microsoft/Phi-4-mini-instruct)
-[![Model](https://img.shields.io/badge/Model-Qwen3--32B-2EAF37)](https://huggingface.co/Qwen/Qwen3-32B)
-[![Model](https://img.shields.io/badge/Model-DeepSeek--R1--32B-2EAF37)](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B)
-[![Model](https://img.shields.io/badge/Model-DeepSeek--R1--LLaMA--70B-2EAF37)](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B)
-[![Model](https://img.shields.io/badge/Model-QwQ--32B-2EAF37)](https://huggingface.co/Qwen/QwQ-32B)
 
-[![HF Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Datasets-Agcs12%2FCLINIC-E9C300?labelColor=444444
-)](https://huggingface.co/datasets/Agcs12/CLINIC)
+<p align="center">
+  <img width="400" height="350" alt="CLINIC Benchmark" src="https://github.com/user-attachments/assets/955043e7-89fd-4eb0-87c9-195d5b075f67" >
+</p>
 
+<h2 align="center"><b>CLINIC: The First Comprehensive Multilingual Benchmark for Trustworthiness in Healthcare</b></h2>
 
+<p align="center">
+  
+  <!-- Model Badges -->
+  <a href="https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/">
+    <img src="https://img.shields.io/badge/Model-GPT--4o--mini-2EAF37" alt="GPT-4o-mini">
+  </a>
+  <a href="https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/">
+    <img src="https://img.shields.io/badge/Model-Gemini--1.5--Flash-2EAF37" alt="Gemini 1.5 Flash">
+  </a>
+  <a href="https://docs.cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/2-5-pro">
+    <img src="https://img.shields.io/badge/Model-Gemini--2.5--Pro-2EAF37" alt="Gemini 2.5 Pro">
+  </a>
+  <a href="https://huggingface.co/aaditya/Llama3-OpenBioLLM-8B">
+    <img src="https://img.shields.io/badge/Model-OpenBioLLM--8B-2EAF37" alt="OpenBioLLM 8B">
+  </a>
+  <a href="https://huggingface.co/TsinghuaC3I/Llama-3-8B-UltraMedical">
+    <img src="https://img.shields.io/badge/Model-UltraMedical-2EAF37" alt="UltraMedical">
+  </a>
+  <a href="https://huggingface.co/Henrychur/MMed-Llama-3-8B">
+    <img src="https://img.shields.io/badge/Model-MMedLLama--8B-2EAF37" alt="MMedLlama 8B">
+  </a>
+  <a href="https://huggingface.co/meta-llama/Llama-3.2-3B">
+    <img src="https://img.shields.io/badge/Model-LLaMA--3.2--3B-2EAF37" alt="LLaMA 3.2 3B">
+  </a>
+  <a href="https://huggingface.co/Qwen/Qwen2-1.5B-Instruct">
+    <img src="https://img.shields.io/badge/Model-Qwen2--1.5B-2EAF37" alt="Qwen2 1.5B">
+  </a>
+  <a href="https://huggingface.co/microsoft/Phi-4-mini-instruct">
+    <img src="https://img.shields.io/badge/Model-Phi--4mini-2EAF37" alt="Phi-4-mini">
+  </a>
+  <a href="https://huggingface.co/Qwen/Qwen3-32B">
+    <img src="https://img.shields.io/badge/Model-Qwen3--32B-2EAF37" alt="Qwen3 32B">
+  </a>
+  <a href="https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B">
+    <img src="https://img.shields.io/badge/Model-DeepSeek--R1--32B-2EAF37" alt="DeepSeek R1 32B">
+  </a>
+  <a href="https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B">
+    <img src="https://img.shields.io/badge/Model-DeepSeek--R1--LLaMA--70B-2EAF37" alt="DeepSeek R1 LLaMA 70B">
+  </a>
+  <a href="https://huggingface.co/Qwen/QwQ-32B">
+    <img src="https://img.shields.io/badge/Model-QwQ--32B-2EAF37" alt="QwQ 32B">
+  </a>
+
+  <!-- Dataset Badge -->
+  <br><br>
+  <a href="https://huggingface.co/datasets/Agcs12/CLINIC">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Datasets-Agcs12%2FCLINIC-E9C300?labelColor=444444" alt="CLINIC Dataset">
+  </a>
+
+</p>
 
 
 
@@ -25,13 +64,7 @@
 
 
 
-<p align="center">
-  <img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/955043e7-89fd-4eb0-87c9-195d5b075f67" >
-</p>
 
-<p align="center">
-  <b>CLINIC - First ever comprehensive multilingual benchmark for trustworthiness in healthcare.</b>
-</p>
 
 
 ## Abstract
@@ -114,9 +147,6 @@ additional samples. Step 3 focused on sample validation to determine final inclu
   Distribution of samples across subdomains, where some samples fall under multiple categories.
 </p>
 </p>
-
-
-## Performance
 
 ## Installation
 
@@ -223,7 +253,10 @@ If you use CLINIC benchmark in your research, please cite our repo:
 
 ## License
 
-[Add your license information here]
+This project is distributed under the MIT License.  
+You are free to use, modify, and distribute this software, as long as you include the original license notice.  
+See the full text in the [LICENSE](LICENSE) file.
+
 
 ## Contact
 
