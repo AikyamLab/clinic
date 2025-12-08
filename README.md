@@ -14,13 +14,9 @@
 ![Model](https://img.shields.io/badge/Model-DeepSeek--R1--LLaMA--70B-2EAF37)
 ![Model](https://img.shields.io/badge/Model-QwQ--32B-2EAF37)
 
-![Dataset](https://img.shields.io/badge/Dataset-CLINIC-007BFF)
+![Dataset](https://huggingface.co/datasets/Agcs12/CLINIC)
 
-![Task](https://img.shields.io/badge/Task-Truthfulness-FF7A00)
-![Task](https://img.shields.io/badge/Task-Robustness-FF7A00)
-![Task](https://img.shields.io/badge/Task-Fairness-FF7A00)
-![Task](https://img.shields.io/badge/Task-Safety-FF7A00)
-![Task](https://img.shields.io/badge/Task-Privacy-FF7A00)
+
 
 <!-- <img width="1024" height="541" alt="image" src="https://github.com/user-attachments/assets/955043e7-89fd-4eb0-87c9-195d5b075f67" /> -->
 
