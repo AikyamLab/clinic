@@ -128,14 +128,10 @@ additional samples. Step 3 focused on sample validation to determine final inclu
 ### Data Statistics
 
 
-1. 
+1. Distribution of samples across different dimensions of <b>CLINIC</b>
 
 <p align="center">
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/8a501d88-4714-4a84-8f61-7793ddb69c4e" />
-
-<p align="center">
-  Distribution of samples across different dimensions of <b>CLINIC</b>
-</p>
 
 </p>
 
@@ -143,9 +139,6 @@ additional samples. Step 3 focused on sample validation to determine final inclu
 
 <p align="center">
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/d528b327-924f-4e3b-a456-b494aec5f389" />
-  <p align="center">
-  Distribution of samples across subdomains, where some samples fall under multiple categories.
-</p>
 </p>
 
 ## Installation
