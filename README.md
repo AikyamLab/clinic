@@ -234,12 +234,11 @@ See `requirements.txt` for the complete list of dependencies. Key dependencies i
 If you use CLINIC benchmark in your research, please cite our repo:
 
 ```bibtex
-@misc{githubrepo,
-  author       = {Aikyam Lab},
-  title        = {clinic},
-  howpublished = {\url{https://github.com/AikyamLab/clinic}},
-  year         = {2025},
-  note         = {Version 1.0}
+@article{ghosh2025clinic,
+  title={CLINIC: Evaluating Multilingual Trustworthiness in Language Models for Healthcare},
+  author={Ghosh, Akash and Sridhar, Srivarshinee and Ravi, Raghav Kaushik and Muhsin, Muhsin and Saha, Sriparna and Agarwal, Chirag},
+  journal={arXiv preprint arXiv:2512.11437},
+  year={2025}
 }
 
 ```
