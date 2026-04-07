@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Datasets-Agcs12%2FCLINIC-E9C300?labelColor=444444" alt="CLINIC Dataset">
   </a>
 <a href="https://arxiv.org/abs/2512.11437">
-  <img src="https://img.shields.io/badge/📄%20arXiv-2301.12345-B31B1B?labelColor=444444" alt="arXiv Paper">
+  <img src="https://img.shields.io/badge/📄%20arXiv-2512.11437-B31B1B?labelColor=444444" alt="arXiv Paper">
 </a>
 
 </p>
