@@ -87,7 +87,7 @@ Integrating language models (LMs) in healthcare systems holds great promise for 
 
 ## 💥 CLINIC vs Other Benchmarks
 <p align="center">
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/f728b5af-b6db-4730-8d57-35147f6b8bcc" />
+<img width="497" height="137" alt="image" src="https://github.com/user-attachments/assets/651880ce-5c03-4fb9-8067-81dc6c1f3113" />
 </p>
 
 1. **Trustworthiness-Oriented Vertical Design:** CLINIC is the first medical benchmark explicitly organized around 18 trustworthiness tasks for multilingual medical cases. Existing
