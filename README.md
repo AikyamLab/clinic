@@ -2,7 +2,8 @@
 
 
 <p align="center">
-  <img width="400" height="350" alt="CLINIC Benchmark" src="https://github.com/user-attachments/assets/955043e7-89fd-4eb0-87c9-195d5b075f67" >
+  <img width="856" height="439" alt="image" src="https://github.com/user-attachments/assets/ad0a80fd-04a9-401a-b71f-2190e9e475c7"/>
+  <!-- <img width="400" height="350" alt="CLINIC Benchmark" src="https://github.com/user-attachments/assets/955043e7-89fd-4eb0-87c9-195d5b075f67" > -->
 </p>
 
 <h2 align="center"><b>CLINIC: The First Comprehensive Multilingual Benchmark for Trustworthiness in Healthcare</b></h2>
